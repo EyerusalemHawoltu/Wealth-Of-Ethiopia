@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/Users/eyerusalemhawoltuafework/Desktop/untitled folder/venv/bin/python3.12" "$0" "$@"
-' '''
+#!/Users/eyerusalemhawoltuafework/Desktop/Wealth-Of-Ethiopia/venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
